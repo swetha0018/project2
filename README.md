@@ -14,3 +14,5 @@ Step 17 was very simpliest and made it easier to remember how to use nano since 
 
 
 As of now, it is working *almost* correctly for me, so I hope it works well for others, too. 
+
+I have sent my link to my peer partner and I am awaiting a response with their link. I will include it here when I recieve it:
