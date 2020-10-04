@@ -1,6 +1,6 @@
 #project2
 
-I apologize if I did not transfer the files correctly from the terminal to GitHub. I was a little confused and I am not sure if I did it correctly. If you see any problems please let me know so I can fix these before project 3 so I can be prepared, thank you!
+I apologize if I did not transfer the files correctly from the terminal to GitHub. I was a little confused and I am not sure if I did it correctly. It was not clear to me whether just the files starting from step 9 were the ones that are supposed to be submitted or the coding for the whole tutorials was to be included. If you see any problems, please let me know so I can go in and add the missing code/fix these issues before project 3 so I can be prepared, thank you!
 
 The biggest problem that I have been facing was through my backup.sh file. For some odd reason, I can't find the right directory to attach it to. Even though my code words perfectly, I have this one issue that needs to be resolved. I also had a few problems when transferring my code over to github, so I'm not exactly sure if I completed this task correctly as well. I know that it should have been easy for me to do, but for some reason I was having more trouble than usual.
 
