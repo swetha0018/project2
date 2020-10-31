@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# The purpose of this block is to demonstrate a basic understanding of the if-ekse command.
+# The purpose of this block is to demonstrate a basic understanding of the if-else command.
 
 num_a=400
 num_b=200
